@@ -1,0 +1,16 @@
+2026-10-08 12:22:04.472 [info] [GitHub] Log level: Info
+2026-10-08 12:22:11.936 [info] [Codex] Activating Codex extension
+2026-10-08 12:22:11.937 [info] [Codex] [CodexMcpConnection] Spawning codex app-server
+2026-10-08 12:22:11.937 [info] [Codex] [IpcRouter] I am the router
+2026-10-08 12:22:11.937 [info] [Codex] ChatGPT desktop bridge active
+2026-10-08 12:22:11.937 [info] [Codex] Desktop bridge wrote payload sessionPath="/Users/chloe@team5pm.com/Library/Application Support/com.openai.chat/app_pairing_extensions/Visual Studio Code-a865c880-bb99-41ec-90c0-4f60a88dda2c"
+2026-10-08 12:22:11.937 [info] [Codex] Desktop bridge registered
+2026-10-08 12:22:11.937 [info] [Codex] Work with apps desktop bridge initialized
+2026-10-08 12:22:11.937 [info] [Codex] Desktop bridge listening on UNIX socket socketPath="/tmp/Visual Studio Code-a865c880-bb99-41ec-90c0-4f60a88dda2c.sock"
+2026-10-08 12:22:11.937 [warning] [Codex] [IpcClient] Received broadcast but no handler is configured method=client-status-changed
+2026-10-08 12:22:11.937 [info] [Claude VSCode] AuthManager initialized
+2026-10-08 12:22:11.937 [info] [Claude VSCode] Claude code extension is now active?
+2026-10-08 12:22:11.937 [info] [Claude VSCode] MCP Server running on port 40300 (localhost only)
+2026-10-08 12:22:14.936 [info] [Claude VSCode] AuthManager initialized
+2026-10-08 12:22:30.007 [info] [Codex] [CodexMcpConnection] Initialize received id=1
+2026-10-08 12:22:32.862 [info] [Claude VSCode] Extension update check: 2.1.289 -> 2.1.292 (attempt 1): ok, telemetry posted
